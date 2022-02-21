@@ -1,2 +1,2 @@
-# CrudComSpringAndThymeleaf
+# CrudWithSpringAndThymeleaf
 Spring and Thymeleaf example
